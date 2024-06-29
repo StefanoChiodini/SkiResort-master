@@ -163,7 +163,7 @@ For all the details about the model you can read the [report](https://github.com
 This is a side project made for University Course of Design and Implementation of Mobile Application at Polimi. 
 
 - [Francesco Zanella](https://github.com/FrancescoZanella)
-- [Stefano Chiodini](https://github.com/Iacopo99)
+- [Stefano Chiodini](https://github.com/StefanoChiodini)
 
 
 
